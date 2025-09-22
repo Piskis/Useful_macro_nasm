@@ -2,12 +2,12 @@
 
 %macro add_nums 2  ; 12, 12 for example
 
-   mov r10, %1
-   mov r11, %2
+   mov r14, %1
+   mov r15, %2
 
-   add r10, r11 
+   add r14, r15 
 
-   ; now r10=answer
+   ; now r14=answer
 
 %endmacro
 
