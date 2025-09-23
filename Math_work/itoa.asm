@@ -1,4 +1,4 @@
-; num to string function
+; integer to ASCII function 
 
 ; num to RAX, string will be in RSI, RCX = 10(base)
 
